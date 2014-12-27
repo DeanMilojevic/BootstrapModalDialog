@@ -1,0 +1,8 @@
+CompilerOracle: exclude jregex/Pretokenizer.next
+Listening for transport dt_socket at address: 8000
+16:28:10,177 INFO  ~ Starting D:\Code\Java\Samples\BootstrapModalDialog
+16:28:11,046 WARN  ~ You're running Play! in DEV mode
+16:28:12,300 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+~ Server is up and running
+16:29:20,300 INFO  ~ Application 'BootstrapModalDialog' is now started !
+16:29:23,563 WARN  ~ Locale en is not defined in your application.conf
